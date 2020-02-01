@@ -1,5 +1,5 @@
 name: vehicle_time
-name_cased: vehicleTime
+name_cased: vehicleTime tachograph.yml 
 pretty_name: Vehicle Time
 category: poi
 authorization: true
@@ -29,4 +29,4 @@ properties:
         values:
           hour: 19
           minute: 55
-        description: Vehcile time is 19:55
+        description: Vehicle time is 19:55
